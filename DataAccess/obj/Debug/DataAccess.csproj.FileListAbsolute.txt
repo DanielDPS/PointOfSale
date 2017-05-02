@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\PointOfSale\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Daniel\Desktop\PointOfSale\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Daniel\Desktop\PointOfSale\DataAccess\bin\Debug\Models.dll
+C:\Users\Daniel\Desktop\PointOfSale\DataAccess\bin\Debug\Models.pdb
+C:\Users\Daniel\Desktop\PointOfSale\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PointOfSale\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Daniel\Desktop\PointOfSale\DataAccess\obj\Debug\DataAccess.pdb
+E:\Proyectos C#\PointOfSale\DataAccess\bin\Debug\DataAccess.dll
+E:\Proyectos C#\PointOfSale\DataAccess\bin\Debug\DataAccess.pdb
+E:\Proyectos C#\PointOfSale\DataAccess\bin\Debug\Models.dll
+E:\Proyectos C#\PointOfSale\DataAccess\bin\Debug\Models.pdb
+E:\Proyectos C#\PointOfSale\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\PointOfSale\DataAccess\obj\Debug\DataAccess.dll
+E:\Proyectos C#\PointOfSale\DataAccess\obj\Debug\DataAccess.pdb

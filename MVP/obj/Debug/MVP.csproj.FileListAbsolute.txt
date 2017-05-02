@@ -1,0 +1,22 @@
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\MVP.dll
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\MVP.pdb
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\DataAccess.dll
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\Models.dll
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\Service.dll
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\DataAccess.pdb
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\Models.pdb
+C:\Users\Daniel\Desktop\PointOfSale\MVP\bin\Debug\Service.pdb
+C:\Users\Daniel\Desktop\PointOfSale\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PointOfSale\MVP\obj\Debug\MVP.dll
+C:\Users\Daniel\Desktop\PointOfSale\MVP\obj\Debug\MVP.pdb
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\MVP.dll
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\MVP.pdb
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\DataAccess.dll
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\Models.dll
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\Service.dll
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\DataAccess.pdb
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\Models.pdb
+E:\Proyectos C#\PointOfSale\MVP\bin\Debug\Service.pdb
+E:\Proyectos C#\PointOfSale\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\PointOfSale\MVP\obj\Debug\MVP.dll
+E:\Proyectos C#\PointOfSale\MVP\obj\Debug\MVP.pdb

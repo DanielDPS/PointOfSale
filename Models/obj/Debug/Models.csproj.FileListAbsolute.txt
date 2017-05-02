@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\PointOfSale\Models\bin\Debug\Models.dll
+C:\Users\Daniel\Desktop\PointOfSale\Models\bin\Debug\Models.pdb
+C:\Users\Daniel\Desktop\PointOfSale\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PointOfSale\Models\obj\Debug\Models.dll
+C:\Users\Daniel\Desktop\PointOfSale\Models\obj\Debug\Models.pdb
+E:\Proyectos C#\PointOfSale\Models\bin\Debug\Models.dll
+E:\Proyectos C#\PointOfSale\Models\bin\Debug\Models.pdb
+E:\Proyectos C#\PointOfSale\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\PointOfSale\Models\obj\Debug\Models.dll
+E:\Proyectos C#\PointOfSale\Models\obj\Debug\Models.pdb

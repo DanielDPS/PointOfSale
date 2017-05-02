@@ -1,0 +1,59 @@
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\GUI.exe.config
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\GUI.exe
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\GUI.pdb
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\DataAccess.dll
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\Models.dll
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\MVP.dll
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\Service.dll
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\DataAccess.pdb
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\Models.pdb
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\MVP.pdb
+C:\Users\Daniel\Desktop\PointOfSale\GUI\bin\Debug\Service.pdb
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.exe
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.pdb
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.FormMenu.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Products.FormProducts.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Products.FormInsertProduct.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Products.FormDeleteProduct.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Products.FormUpdateProduct.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Sale.FormSale.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Purchase.FormPurchase.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Reports.FormCalculation.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\GUI.Reports.FormReport.resources
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Daniel\Desktop\PointOfSale\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Daniel\Desktop\PROYECTOS C#\PointOfSale\GUI\bin\Debug\GUI.exe.config
+C:\Users\Daniel\Desktop\PROYECTOS C#\PointOfSale\GUI\obj\Debug\GUI.exe
+C:\Users\Daniel\Desktop\PROYECTOS C#\PointOfSale\GUI\obj\Debug\GUI.pdb
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\GUI.exe.config
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.exe
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.pdb
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\GUI.exe
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\GUI.pdb
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\DataAccess.dll
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\Models.dll
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\MVP.dll
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\Service.dll
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\DataAccess.pdb
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\Models.pdb
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\MVP.pdb
+E:\Proyectos C#\PointOfSale\GUI\bin\Debug\Service.pdb
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Form1.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.FormMenu.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Products.FormDeleteProduct.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Products.FormInsertProduct.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Products.FormProducts.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Products.FormUpdateProduct.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Purchase.FormPurchase.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Reports.FormCalculation.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Reports.FormReport.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.Sale.FormSale.resources
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\RdlCompile.cache
+E:\Proyectos C#\PointOfSale\GUI\obj\Debug\RdlCompile.compiled
